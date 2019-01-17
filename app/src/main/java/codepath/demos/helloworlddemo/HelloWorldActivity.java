@@ -10,7 +10,7 @@ public class HelloWorldActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_hello_world);
-		//small change 2
+		//small change 3
 	}
 
 	@Override
